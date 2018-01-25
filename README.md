@@ -1,2 +1,2 @@
 # scikit-learn_example
-scikit_learn_example
+这是scikit的例子，学习scikit-learn库使用
